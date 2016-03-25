@@ -1,3 +1,3 @@
 module.exports = {
-  name: 'Carlos Paelinck'
+    name: 'Carlos Paelinck'
 }
