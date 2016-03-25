@@ -1,6 +1,6 @@
 {
   "name": "carlospaelinck",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A node module about Carlos Paelinck",
   "main": "index.js",
   "scripts": {
