@@ -7,13 +7,13 @@ A node module about Carlos Paelinck. Essentially a placeholder for my name on np
 
 ### To install
 ```
-$ npm install carlospaelinck
+$ yarn add carlospaelinck
 ```
 
 ### To use
 ```
-import { name } from 'carlospaelinck'
-console.debug(name) // Carlos Paelinck
+import { name } from 'carlospaelinck';
+console.debug(name); // Carlos Paelinck
 ```
 
 ### License
